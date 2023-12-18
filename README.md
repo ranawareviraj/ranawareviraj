@@ -1,9 +1,3 @@
-<div>
-    <div align=center>
-        <img src="https://github.com/ranawareviraj.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-</div>
-
 <!--
 **ranawareviraj/ranawareviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
