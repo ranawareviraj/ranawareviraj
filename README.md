@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranawareviraj&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranawareviraj&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranawareviraj&theme=default)
