@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   
   ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)&nbsp;
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?-0D1117?style=flat&logo=spring)&nbsp;
   ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio)&nbsp;
   ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
@@ -29,14 +30,21 @@ Here are some ideas to get you started:
   ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=flat&logo=bitbucket&logoColor=white)&nbsp;
   ![Gitlab](https://img.shields.io/badge/-Gitlab-0D1117?style=flat&logo=gitlab)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)&nbsp;
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)&nbsp;
+  ![Splunk](  https://img.shields.io/badge/Splunk-000000?style=flat&logo=Splunk&logoColor=white)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)&nbsp;
+  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)&nbsp;
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)&nbsp;
+  ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)&nbsp;
+  ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![Express.js](https://img.shields.io/badge/Express.js-404D59style=flat)&nbsp;
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
