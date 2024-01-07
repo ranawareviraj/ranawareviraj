@@ -36,3 +36,6 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
 
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranawareviraj&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranawareviraj&theme=default)
